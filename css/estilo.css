@@ -1,0 +1,33 @@
+body {
+
+background-color: #a1d3ef;
+color: purple;
+
+background-image: url("..img/logomarcas.png");
+}
+
+h1 {
+font-family: Arial;
+text-align: left;
+text-indent: 30px;
+}
+
+h2 {
+font-family: Arial;
+text-align: center;
+color: darkblue;
+text-indent: 50px;	
+}
+
+<style>
+p {
+font-family: Arial;
+text-align: justify;
+line-height: 3px; 
+letter-spacing: 3px;
+word-spacing: 5px;
+text-indent: 50px;
+font-size: 2px;
+
+}
+</style>
